@@ -8,7 +8,7 @@ Using the linked list class you created in the previous exercise implement stack
   - `isEmpty` Returns `true` if the stack is empty
 
 **YOU HAVE TO USE LINKED LIST TO STORE DATA**
-
+////
 ```js
 class Stack {
   // your code goes here
