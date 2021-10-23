@@ -32,7 +32,7 @@ function bubbleSort() {
 
 ```js
 function selectionSort() {
-  // your code
+
 }
 ```
 
