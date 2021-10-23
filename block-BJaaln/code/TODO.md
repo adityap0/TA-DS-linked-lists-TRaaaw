@@ -24,7 +24,7 @@ step-5: After repeating all the above steps you will get a sorted array
 
 ```js
 function mergeSort() {
-  // your code
+
 }
 ```
 
@@ -32,7 +32,7 @@ function mergeSort() {
 
 ```js
 function quickSort() {
-  // your code
+
 }
 ```
 
