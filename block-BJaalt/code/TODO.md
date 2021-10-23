@@ -1,5 +1,3 @@
-## Solve the list of given problems:
-
 For the given problems below write a function to solve the problem and write two test/example testing your solution.
 
 1. Write Algorithms to Check if Two String are Anagram. An anagram is something where length and character matches but not the order like `listen` and `silent`, both have the same number of characters.
