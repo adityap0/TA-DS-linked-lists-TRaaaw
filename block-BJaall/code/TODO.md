@@ -40,7 +40,7 @@ function selectionSort() {
 
 ```js
 function insertionSort() {
-  // your code
+
 }
 ```
 
